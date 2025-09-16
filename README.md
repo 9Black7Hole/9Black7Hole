@@ -1,7 +1,7 @@
 # Hi everyone! I'm 9Black7Hole 👋
 
 ## About Me
-I am a Computer Science student currently halfway through my degree. I am expanding my knowledge in high-performance computing as well as front-end and back-end development. I have research experience in computational biology and bioinformatics, and my goal is to strengthen my development skills while exploring new technologies. I love to learn and build projects that are innovative, creative, and most importantly, interactive.
+I am a sophomore Computer Science studying at Arizona State University. I am expanding my knowledge in high-performance computing as well as front-end and back-end development. I have research experience in computational biology and bioinformatics, and my goal is to strengthen my development skills while exploring new technologies. I love to learn and build projects that are innovative, creative, and most importantly, interactive.
 
 ---
 
