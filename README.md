@@ -6,9 +6,11 @@ I am a sophomore Computer Science student studying at Arizona State University. 
 ---
 
 ## Skills
+
 Primary: Python, C++, CUDA, PyTorch, React, SQL.
 Working: Java, Flask, Node, Docker, GitHub Actions.
 Concepts: High Performance Computing, Parallel Algorithms, Model Optimization, Full-stack Development.
+
 ---
 
 ## Current Projects
