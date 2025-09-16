@@ -48,4 +48,4 @@ I am a Computer Science student currently halfway through my degree. I am expand
 ---
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://linkedin.com/) | [Portfolio Website](https://) | [Email](mailto:youremail@example.com)
+[LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/andrewxyang/)) | [Email](mailto:yang.andrew333@gmail.com)
