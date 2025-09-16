@@ -22,7 +22,7 @@ I am a Computer Science student currently halfway through my degree. I am expand
 ## Experience & Achievements
 - 🧬 Student researcher in computational biology and bioinformatics  
 - 🖥️ Built and deployed tools to streamline dataset analysis workflows  
-- 📚 Teaching Assistant for [Course/Department, if applicable]  
+- 📚 Teaching Assistant for Ira. A. Fulton Schools of Engineering
 - ✍️ Co-authoring reports and research presentations for academic projects  
 
 ---
@@ -43,6 +43,7 @@ I am a Computer Science student currently halfway through my degree. I am expand
 
 ## Fun Fact
 🎵 I can identify the type of music just by a few seconds of listening!  
+
 
 ---
 
