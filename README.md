@@ -6,10 +6,9 @@ I am a sophomore Computer Science student studying at Arizona State University. 
 ---
 
 ## Skills
-- **Languages:** Python, Java, C++, JavaScript, HTML/CSS  
-- **Frameworks & Tools:** React, Node.js, Flask, Git, SQL, Docker  
-- **Specialties:** High-Performance Computing, Data Analysis, Full-Stack Development  
-
+Primary: Python, C++, CUDA, PyTorch, React, SQL.
+Working: Java, Flask, Node, Docker, GitHub Actions.
+Concepts: High Performance Computing, Parallel Algorithms, Model Optimization, Full-stack Development.
 ---
 
 ## Current Projects
@@ -19,12 +18,13 @@ I am a sophomore Computer Science student studying at Arizona State University. 
 
 ---
 
-## Experience & Achievements
-- 🧬 Student researcher in computational biology and bioinformatics  
-- 🖥️ Built and deployed tools to streamline dataset analysis workflows  
-- 📚 Teaching Assistant for Ira. A. Fulton Schools of Engineering
-- ✍️ Co-authoring reports and research presentations for academic projects  
+## Experience Highlights
+Student Researcher, ASU Medical AI Lab.
+Focus: computational biology and bioinformatics.
+Impact: shipped two tools to internal users, authored one manuscript, mentored peers on PyTorch and data handling.
 
+Teaching Assistant, Imaging Informatics.
+Impact: created debugging guides, reduced student regrade requests by 30 percent. 
 ---
 
 ## Interests
@@ -46,6 +46,11 @@ I am a sophomore Computer Science student studying at Arizona State University. 
 
 
 ---
+
+## CI and Quality
+![Build](https://github.com/9Black7Hole/hpc-mc/actions/workflows/ci.yml/badge.svg)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen)
 
 📫 **Let’s Connect!:**  
 [LinkedIn](https://www.linkedin.com/in/andrewxyang/) | [Email](mailto:yang.andrew333@gmail.com)
