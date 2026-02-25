@@ -1,9 +1,7 @@
-# Hi everyone! I'm 9Black7Hole 👋
+# Hi everyone! I'm Andrew Yang 👋
 
 ## About Me
 I am a sophomore Computer Science student studying at Arizona State University. I am expanding my knowledge in high-performance computing as well as front-end and back-end development. I have research experience in computational biology and bioinformatics, and my goal is to strengthen my development skills while exploring new technologies. I love to learn and build projects that are innovative, creative, and most importantly, interactive.
-
----
 
 ## Skills
 
@@ -11,14 +9,10 @@ Primary: Python, C++, CUDA, PyTorch, React, SQL.
 Working: Java, Flask, Node, Docker, GitHub Actions.
 Concepts: High Performance Computing, Parallel Algorithms, Model Optimization, Full-stack Development.
 
----
-
 ## Current Projects
 - 🚀 Developing an interactive web app for visualizing bioinformatics datasets  
 - ⚡ Experimenting with GPU acceleration for large-scale scientific simulations  
 - 🌐 Building small full-stack projects to sharpen my React and backend integration skills  
-
----
 
 ## Experience Highlights
 Student Researcher, ASU Medical AI Lab.
